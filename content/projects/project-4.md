@@ -2,8 +2,8 @@
 title: Project Title 4
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_img_path: images/4_thumb.jpg
-content_img_path: images/4.jpg
+thumb_img_path: /images/the-future-of-events-apps-in-event.jpg
+content_img_path: /images/the-future-of-events-apps-in-event.jpg
 layout: project
 ---
 
