@@ -1,8 +1,8 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: 10 things you should know about Pimpama
 date: '2016-08-22'
-thumb_img_path: images/9.jpg
-content_img_path: images/9.jpg
+thumb_img_path: /images/new-sport-and-recreation-precinct-gainsborough-greens-pimpama-1.jpg
+content_img_path: /images/new-sport-and-recreation-precinct-gainsborough-greens-pimpama-1.jpg
 excerpt: >-
   Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
