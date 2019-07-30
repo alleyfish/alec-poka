@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Alec
 subtitle: This is a short page about us and our work.
 img_path: images/about.jpg
 menu:
