@@ -4,8 +4,8 @@ subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
 menu:
   main:
-    name: Portfolio
-    weight: 2
+    name: Local Issues
+    weight: 5
 layout: portfolio
 ---
 
