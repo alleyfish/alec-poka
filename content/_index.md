@@ -9,7 +9,7 @@ sections:
     title: 'Hi, I''m Alec Pokarier'
     type: heroblock
   - component: portfolio_block.html
-    layout_style: tiles
+    layout_style: mosaic
     num_projects_displayed: 4
     section_id: latest-projects
     subtitle: Here's some of the local issues I'm passionate about
