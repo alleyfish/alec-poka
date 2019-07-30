@@ -1,7 +1,7 @@
 ---
 title: About Alec
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+subtitle: 'This is a short page about Alec '
+img_path: /images/alec-pokarier.jpg
 menu:
   main:
     name: About
