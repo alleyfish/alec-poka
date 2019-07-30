@@ -5,7 +5,7 @@ layout_style: mosaic
 menu:
   main:
     name: Local Issues
-    weight: 5
+    weight: 2
 layout: portfolio
 ---
 
