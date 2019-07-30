@@ -2,7 +2,7 @@ title: Alec Pokarier
 baseURL: /
 params:
   accent_color: blue
-  color_scheme: dark
+  color_scheme: light
   footer:
     content: '&copy; Stackbit-Exto. All rights reserved.'
     has_social: true
