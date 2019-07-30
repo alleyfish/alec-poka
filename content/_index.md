@@ -65,7 +65,7 @@ sections:
     component: posts_block.html
     num_posts_displayed: 2
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: Keep up to date with the local news
     title: News
     type: postsblock
   - component: contact_block.html
