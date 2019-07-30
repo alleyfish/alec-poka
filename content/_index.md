@@ -49,8 +49,9 @@ sections:
       - author: John Doe
         avatar: images/john_doe.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Alec has been instrumental in gaining funding for our local mens shed.
+          He was able to approach our federal member on our behalf and help
+          secure an $80,000 grant.
       - author: Jane Roe
         avatar: images/jane_roe.jpg
         content: >-
@@ -71,7 +72,7 @@ sections:
   - component: contact_block.html
     section_id: contact
     subtitle: An optional subtitle of the section
-    title: Contact Us
+    title: Contact Me
     type: contactblock
 menu:
   main:
