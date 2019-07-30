@@ -55,9 +55,8 @@ sections:
       - author: Jane Roe
         avatar: images/jane_roe.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Alec has been a huge supporter of our running club for the past 12
+          months. He's been instrumental in helping our membership grow.
     title: Testimonials
     type: testimonialsblock
   - actions:
