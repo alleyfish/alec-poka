@@ -47,7 +47,7 @@ sections:
     subtitle: An optional subtitle of the section
     testimonialslist:
       - author: John Doe
-        avatar: images/john_doe.jpg
+        avatar: /images/screen-shot-2019-07-30-at-8.52.23-pm.png
         content: >-
           Alec has been instrumental in gaining funding for our local mens shed.
           He was able to approach our federal member on our behalf and help
