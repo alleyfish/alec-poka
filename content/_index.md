@@ -60,7 +60,7 @@ sections:
     title: What they said...
     type: testimonialsblock
   - actions:
-      - label: View Blog
+      - label: View All Articles
         url: blog/index.html
     component: posts_block.html
     num_posts_displayed: 2
