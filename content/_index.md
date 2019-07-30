@@ -12,8 +12,8 @@ sections:
     layout_style: tiles
     num_projects_displayed: 4
     section_id: latest-projects
-    subtitle: An optional subtitle of the section
-    title: Here's some of the issues I'm passionate about
+    subtitle: Here's some of the local issues I'm passionate about
+    title: Fighting for our Fair share
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
