@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Local Issues
 subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
 menu:
@@ -8,3 +8,4 @@ menu:
     weight: 2
 layout: portfolio
 ---
+
