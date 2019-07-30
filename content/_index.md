@@ -13,7 +13,7 @@ sections:
     num_projects_displayed: 4
     section_id: latest-projects
     subtitle: Here's some of the local issues I'm passionate about
-    title: Fighting for our Fair share
+    title: Fighting For Our Fair Share
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
