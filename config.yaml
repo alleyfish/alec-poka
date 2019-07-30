@@ -4,7 +4,7 @@ params:
   accent_color: blue
   color_scheme: light
   footer:
-    content: '&copy; Stackbit-Exto. All rights reserved.'
+    content: '&copy; Alec Pokarier. All rights reserved.'
     has_social: true
     links:
       - new_window: true
