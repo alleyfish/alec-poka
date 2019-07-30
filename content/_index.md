@@ -66,7 +66,7 @@ sections:
     num_posts_displayed: 2
     section_id: latest-posts
     subtitle: An optional subtitle of the section
-    title: Latest from the Blog
+    title: News
     type: postsblock
   - component: contact_block.html
     section_id: contact
