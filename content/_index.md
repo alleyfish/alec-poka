@@ -13,7 +13,7 @@ sections:
     num_projects_displayed: 4
     section_id: latest-projects
     subtitle: An optional subtitle of the section
-    title: Recent Work
+    title: Here's some of the issues I'm passionate about
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
