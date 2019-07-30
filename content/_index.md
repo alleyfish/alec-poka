@@ -44,7 +44,7 @@ sections:
     type: servicesblock
   - component: testimonials_block.html
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: What others have to say about me
     testimonialslist:
       - author: John Doe
         avatar: /images/screen-shot-2019-07-30-at-8.52.23-pm.png
