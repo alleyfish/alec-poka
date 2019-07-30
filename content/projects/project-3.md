@@ -1,9 +1,9 @@
 ---
-title: Project Title 3
+title: Our Local Community
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_img_path: images/3_thumb.jpg
-content_img_path: images/3.jpg
+thumb_img_path: /images/pimpama-mens-shed.jpg
+content_img_path: /images/pimpama-mens-shed.jpg
 layout: project
 ---
 
